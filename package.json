@@ -88,7 +88,7 @@
     "lessc": "^1.0.2",
     "mocha": "^4.1.0",
     "prettier": "1.13",
-    "raw-loader": "^0.5.1",
+    "raw-loader": "^4.0.0",
     "react": "^16.6.3",
     "react-addons-update": "^15.6.0",
     "react-docgen": "2.17.0",
